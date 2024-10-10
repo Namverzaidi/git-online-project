@@ -31,7 +31,7 @@ SECRET = 'ARandomGenratedkeyByusertokeephisauthenticationsecure'
 
 ## About Me
 
-I'm Aditya Pateriya, an undergraduate student studying Computer Science & Engineering at Amity University, Gwalior with an Active interest in Programming and building Web Apps(MERN stack). Do checkout my portfolio and connect with me on LinkedIn.
+I'm Namver Ali Zaidi, an undergraduate student studying Computer Science & Engineering at Amity University, Gwalior with an Active interest in Programming and building Web Apps(MERN stack). Do checkout my portfolio and connect with me on LinkedIn.
 
 ### Connect with me :
 
